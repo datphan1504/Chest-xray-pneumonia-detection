@@ -5,6 +5,8 @@ data:
   image_size: 224
   batch_size: 32
   num_workers: 2
+  protocol: "original"   # published 16-image val split; see src/splits.py
+  val_fraction: 0.15
 
 model:
   name: "resnet18"
