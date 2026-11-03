@@ -64,7 +64,7 @@ Chi tiết đầy đủ nằm trong [`notebooks/train_baseline.ipynb`](notebooks
    - **Kaggle Notebook**: thêm dataset qua "+ Add Data", nhớ bật **Internet** trong Notebook Settings nếu cần `git clone`.
 2. Clone source code và cài dependencies:
    ```bash
-   git clone https://github.com/AIVIETNAM-AIO-PhamTien/chest-xray-pneumonia-detection.git
+   git clone https://github.com/datphan1504/Chest-xray-pneumonia-detection.git
    cd chest-xray-pneumonia-detection
    pip install -r requirements.txt
    ```
