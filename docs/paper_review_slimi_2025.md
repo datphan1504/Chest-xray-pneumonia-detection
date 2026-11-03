@@ -20,7 +20,7 @@ Chest X-Ray Images (Pneumonia)
 Keywords: 
 Spiking neural network (SNN), Convolutional neural networks (CNNs), Gated recurrent units (GRUs), Chest X-ray, MRI, Image classification 
 Summary by: 
-Phạm Tiến
+Phan Đăng Đạt
 
 
 

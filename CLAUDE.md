@@ -137,8 +137,8 @@ Phần dưới chỉ mô tả CLI baseline. Nghiên cứu/report dùng notebook 
      giải nén. Cần chuẩn bị dataset thủ công trước khi chạy các cell training.
 3. Lấy source code bằng `git clone` từ GitHub:
    ```
-   !git clone https://github.com/AIVIETNAM-AIO-PhamTien/chest-xray-pneumonia-detection.git
-   %cd chest-xray-pneumonia-detection
+   !git clone https://github.com/datphan1504/Chest-xray-pneumonia-detection.git
+   %cd Chest-xray-pneumonia-detection
    ```
    Trên **Kaggle Notebook**, phải bật **Internet** ở Notebook Settings (sidebar bên phải) trước khi chạy `git clone`, nếu không sẽ báo lỗi kết nối. Colab đã có Internet sẵn.
 4. `pip install -r requirements.txt`.

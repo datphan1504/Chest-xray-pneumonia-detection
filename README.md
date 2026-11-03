@@ -204,7 +204,7 @@ python -m jupyter lab notebooks/chest_xray_research_complete.ipynb
 Nếu bắt đầu bằng một Kaggle notebook trống, cell bootstrap tối thiểu là:
 
 ```python
-!git clone https://github.com/AIVIETNAM-AIO-PhamTien/chest-xray-pneumonia-detection.git /kaggle/working/chest-xray-pneumonia-detection
+!git clone https://github.com/datphan1504/Chest-xray-pneumonia-detection.git /kaggle/working/chest-xray-pneumonia-detection
 ```
 
 Sau khi clone, chạy notebook chuẩn nằm trong checkout đó; branch/commit phải
